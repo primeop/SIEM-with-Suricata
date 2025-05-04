@@ -1,4 +1,5 @@
 # 🛡️ SIEM Implementation with Suricata & ELK Stack
+(under construction)
 
 ## 📌 Overview
 This project showcases a full SIEM pipeline built using Suricata IDS and the Elastic Stack (Filebeat, Logstash, Elasticsearch, Kibana). It was designed to detect and triage security events in real time across simulated enterprise network environments.
