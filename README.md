@@ -42,5 +42,5 @@ This project showcases a full SIEM pipeline built using Suricata IDS and the Ela
 - T1190: Exploit Public-Facing Application
 
 ## 👨‍💻 Author
-Kamalesh Jayapandiaraj – [LinkedIn](https://www.linkedin.com/in/...) | [Email](karumuga@usc.edu)
+Kamalesh Jayapandiaraj – [LinkedIn](https://www.linkedin.com/in/kamalesh-jayapandiaraj-arumugam/) | [Email](karumuga@usc.edu)
 
