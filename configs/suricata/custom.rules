@@ -1,0 +1,1 @@
+alert http any any -> any any (msg:"Possible Brute Force Attack"; flow:established,to_server; content:"login"; threshold:type threshold, track by_src, count 5, seconds 60; sid:1000001; rev:1;)
