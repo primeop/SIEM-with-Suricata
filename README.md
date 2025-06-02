@@ -43,8 +43,8 @@ This project showcases a full SIEM pipeline built using Suricata IDS and the Ela
 
 ## 📚 Documentation
 
-- [🧪 CCDC 2025 SIEM & IR Guide](docs/CCDC2025_SIEM_IR_Guide.md)
-- [⚙️ Setup Guide](docs/setup_guide.md)
+- [ CCDC 2025 SIEM & IR Guide](docs/CCDC2025_SIEM_IR_Guide.md)
+- [ Setup Guide](docs/setup_guide.md)
 
 ## 👨‍💻 Author
 Kamalesh Jayapandiaraj – [LinkedIn](https://www.linkedin.com/in/kamalesh-jayapandiaraj-arumugam/) | [Email](karumuga@usc.edu)
